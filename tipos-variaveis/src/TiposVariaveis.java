@@ -12,8 +12,7 @@ public class TiposVariaveis {
 
         final double VALOR_DE_PI = 3.1415;
         System.out.println(VALOR_DE_PI);
-
+        System.err.println(VALOR_DE_PI-1);
     }
-
 
 }
