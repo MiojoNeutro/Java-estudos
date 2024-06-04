@@ -1,7 +1,5 @@
 public class Argumentos {
     public static void main(String[] args) {
-        String nome = args[0];
-        String sobreNome = args [1];
         int idade = Integer.parseInt(args[2]);
         System.out.println("Seu nome completo é: " +nomeCompleto(args)+"\nSua idade é: "+idade);
     } public static String nomeCompleto(String[] args){
