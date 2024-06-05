@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JogoMat",
+            "request": "launch",
+            "mainClass": "JogoMat",
+            "projectName": "tipos-variaveis_4771783d"
+        },
+        {
+            "type": "java",
+            "name": "TestandoFor",
+            "request": "launch",
+            "mainClass": "TestandoFor",
+            "projectName": "tipos-variaveis_4771783d"
+        },
+        {
+            "type": "java",
             "name": "Apresentaçao",
             "request": "launch",
             "mainClass": "Apresentaçao",
