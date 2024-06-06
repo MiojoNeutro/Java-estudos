@@ -13,7 +13,7 @@ public static void main(String[] args) {
                 break;
             }else if (tentativa == 4){
                 System.out.println("\n==================================");
-                System.out.println("\nAcabaram suas tentativas! Melhore.");
+                System.out.println("\n Acabaram suas tentativas! Melhore.");
                 System.out.println("\n==================================");
             }
             else {
