@@ -1,7 +1,7 @@
 
 public class TvConfig {
      
-    boolean ligarDesligar = true;
+    boolean ligarDesligar = false;
     int canal = 0;
     int volume = 0;
  
