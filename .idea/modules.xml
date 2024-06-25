@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exceção/Exceção.iml" filepath="$PROJECT_DIR$/Exceção/Exceção.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio-do-tom/Exercicio-do-tom.iml" filepath="$PROJECT_DIR$/Exercicio-do-tom/Exercicio-do-tom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-estudos.iml" filepath="$PROJECT_DIR$/.idea/Java-estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repetição/Repetição.iml" filepath="$PROJECT_DIR$/Repetição/Repetição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TvInterativa/TvInterativa.iml" filepath="$PROJECT_DIR$/TvInterativa/TvInterativa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/televisão-smart/televisão-smart.iml" filepath="$PROJECT_DIR$/televisão-smart/televisão-smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testina/testina.iml" filepath="$PROJECT_DIR$/testina/testina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
