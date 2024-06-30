@@ -4,5 +4,6 @@ public class Cadastro {
 
          marcos.setEndereco("Rua italia");
          System.out.println("Seu nome é: "+marcos.getNome()+"\nCpf: "+marcos.getCpf()+"\nSeu endereço é: "+marcos.getEndereco());
+
     }
 }
